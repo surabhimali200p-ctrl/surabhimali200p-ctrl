@@ -1,93 +1,60 @@
-# 👋 Hey there, I'm Surabhi Mali
+# Surabhi Mali
 
-### 🚀 Student | Web Developer | Future Innovator | Research Enthusiast
-
----
-
-## 🎯 Mission
-
-> To found a technology company and contribute to scientific advancement through innovation and impactful solutions.
+## AI Engineer | Builder in Progress
 
 ---
 
-# 🎮 Player Profile
+## 🌌 Mission
 
-```yaml
-Name: Surabhi Mali
-Class: Frontend Developer
-Traits:
-  - Creative 🎨
-  - Disciplined 🎯
-  - Visionary 🔭
-
-Current Quest:
-  - Learning Web Development
-
-Long-Term Goal:
-  - Build products used by millions
-```
+A quiet pursuit of machines that think, systems that adapt, and tools that reshape how intelligence interacts with reality.
 
 ---
 
-# ⚡ Current Focus
+## 🚀 Current Focus
 
-* 🌐 Building web projects
-* 🚀 Entrepreneurship and startups
-* 📚 Strengthening HTML, CSS, and JavaScript fundamentals
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-* HTML
-* CSS
-* JavaScript
-
-### Tools
-
-* VS Code
-* Git
-* Github
-* Unity
+- Python (learning + implementation)
+- Building AI systems (exploration phase)
+- Working with Git & GitHub
+- Using VS Code as primary environment
 
 ---
 
-# 🧠 Core Values
+## 🧭 Direction of Work
 
-✨ Consistency
-✨ Growth Mindset
-✨ Innovation
+Focused on building the foundation for future-scale systems in:
 
----
-
-# 🎯 Interests
-
-⚡ Productivity Tools
-
-🌐 Websites & Portfolios
-
-🎮 Game Development
+- AI systems & autonomous agents  
+- Robotics  
+- Automation tools  
+- Startup products & scalable platforms  
 
 ---
 
-# 🚀 Current Quest
+## 🚧 Projects
 
-```diff
-+ Learning Web Development
-+ Building Projects
-+ Becoming Better Every Day
-```
+> Work in progress… ideas are being shaped into systems.
 
----
-
-# 🏆 Future Vision
-
-A tech entrepreneur building products used by millions.
+- AI systems → coming soon  
+- Automation tools → under design  
+- Experimental builds → in progress  
 
 ---
 
-## 🌟 Motto
+## ⚙️ Tools & Stack
 
-> Great things are built one day at a time.
+- Python  
+- Git / GitHub  
+- VS Code  
+
+---
+
+## 🌠 Vision
+
+Building toward systems that feel less like software  
+and more like evolving intelligence interacting with the world.
+
+---
+
+## 📫 Contact
+
+- GitHub: Surabhi Mali 
