@@ -1,7 +1,33 @@
-HI, I am Surabhi Mali!
-💫 About Me:
+# Hey, I'm Surabhi 👋
 
-Building with Python • Exploring AI & ML<br>Student • Python • AI • Learning in public<br>Building projects, one commit at a time.<br>Python | AI | Open Source<br>Aspiring AI Engineer • Python Developer<br>Learning. Building. Shipping.<br>Turning ideas into code.<br>Python • Git • AI • Automation<br>Always building something new.<br>Curious mind. Clean code. Constant learning.
+### AI Engineer in the making • Builder • Creator
+
+I'm a student exploring **Artificial Intelligence, Machine Learning, and AI-driven decision making** — with a focus on turning ideas into things people can actually use.
+
+I like building at the intersection of **AI × technology × creativity**.
+
+---
+
+## 🧠 What I'm Exploring
+
+* 🤖 Artificial Intelligence & Generative AI
+* 🧠 Machine Learning & intelligent systems
+* 📊 AI-powered decision making
+* ⚙️ Automation & practical AI applications
+* 🌐 Web technologies
+* 🚀 Building and shipping projects
+
+## 🎯 My Goal
+
+Build technology that isn't just technically impressive —
+**it should actually matter.**
+
+I'm especially interested in the question:
+
+> **How can AI make better decisions — and help humans make better ones too?**
+
+
+### `BUILD → BREAK → LEARN → REBUILD`
 
 
 ## 🌐 Socials:
