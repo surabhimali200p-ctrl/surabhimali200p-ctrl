@@ -1,5 +1,5 @@
 HI, I am Surabhi Mali!
-#💫 About Me:
+💫 About Me:
 
 Building with Python • Exploring AI & ML<br>Student • Python • AI • Learning in public<br>Building projects, one commit at a time.<br>Python | AI | Open Source<br>Aspiring AI Engineer • Python Developer<br>Learning. Building. Shipping.<br>Turning ideas into code.<br>Python • Git • AI • Automation<br>Always building something new.<br>Curious mind. Clean code. Constant learning.
 
